@@ -14,3 +14,6 @@ lkjh
 ### MOIKKA MOI :) 
 >>>>>>> 17e5779589e20ee05be82a3ffe8fd306eeef8a66
 jhh
+
+ijhuhjjjjjjj katjaa
+rtjyjyt
