@@ -19,8 +19,16 @@ ijhuhjjjjjjj katjaa
 rtjyjytertyretete
 <<<<<<< HEAD
 aviomies käski kirjottaa jotain jännnää
+pitääkö tuo pyyhkiä poiss....
+=======
+<<<<<<< HEAD
+aviomies käski kirjottaa jotain jännnää
 TERVEEEEEEE
 =======
 aviomies käski kirjottaa jotain jännnää
 >>>>>>> 51a42d5578fb0371497e5c29da174f6499a0ca7e
+<<<<<<< HEAD
 EI TÄÄ TOIMI?!?!?!?!?
+=======
+>>>>>>> 73cd28d565ecceb0bec05ff142372ce594fdc5c0
+>>>>>>> 6f0c830d7715cc842f0df3e8242dd91f00b1f04f
