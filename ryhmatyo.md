@@ -35,6 +35,13 @@ EI TÄÄ TOIMI?!?!?!?!?
 >>>>>>> 73cd28d565ecceb0bec05ff142372ce594fdc5c0
 >>>>>>> 6f0c830d7715cc842f0df3e8242dd91f00b1f04f
 
+<<<<<<< HEAD
 
 
 JOO TERVE HEIEHIEHEII
+=======
+JOTAIN LISÄÄ 
+>>>>>>> a8927e56301b39648130e53e25048393f6bb678b
+
+
+EI tarvi pyyhkiä
