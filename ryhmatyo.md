@@ -18,3 +18,4 @@ jhh
 ijhuhjjjjjjj katjaa
 rtjyjytertyretete
 aviomies käski kirjottaa jotain jännnää
+pitääkö tuo pyyhkiä poiss....
