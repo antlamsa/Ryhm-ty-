@@ -6,7 +6,7 @@ Valitaan käytettäväksi tekstieditoriksi Brackets. Brackets on moderni, avoime
 <h2>GitHub</h2>
 Käytettäväksi versionhallinta ohjelmistoksi valitaan Git. Git perustuu myös avoimeen lähdekoodiin. Sillä voidaan hallita sekä pieniä että suuria projekteja tehokkaasti ja nopeasti. Git on helppokäyttöinen ja soveltuu käytettäväksi valitsemamme Brackets tekstieditorin kanssa. Git on yleisesti käytetty ja sen käyttö on helppo opetella. Gitistä on myös käytännöllinen työpöytäsovellus, Git Desktop. Lisäksi Gitin käyttöön on saatavilla paljon lisäosia ja ohjeita, joten sen käyttäminen on helppoa. Gitin kautta on helppo jakaa työskentelytiloja, joka mahdollistaa useamman henkilön yhdessä työskentelyn. Git toimii hyvin eri käyttöjärjestelmillä, kuten Windows ja MacOS. Gitistä voi seurata muokkaushistoriaa eri projekteissa. (Git. 2019).
 
-<h2>GitHub</h2>
+<h2>Adobe Photoshop</h2>
 Adobe Photoshop maailman kehittynein digitaalisen kuvankäsittelyn ohjelmisto, joka on saavuttanut kaupallisen markkinajohtajuuden. Adobe Photoshopilla pystyt suunnittelemaan kuvia, luoda kuvia ja muokkaamaan kuvia. Photoshop tarjoaa myös tehokkaita muokkaustyökaluja joilla myös pystyy hienosti muokkaamaan kuvia. Photoshop on saatavilla Microsoft windowsille sekä macOS:lle. Adobe photoshop on tarkoitettu enimmäkseen ammatilliseen käyttöön, koska photoshop on suhteellisen kallis yksityiskäyttöön.
 
 
