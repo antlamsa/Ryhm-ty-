@@ -8,5 +8,5 @@ Käytettäväksi versionhallinta ohjelmistoksi valitaan Git. Git perustuu myös 
 
 
 Lähteet:
-Git. 2019. Viitattu 30.9.2019 https://www.git-scm.com/
+Git. 2019. Viitattu 30.9.2019 https://www.git-scm.com/<br>
 Brackets. 2019. Viitattu 30.9.2019 http://brackets.io/
