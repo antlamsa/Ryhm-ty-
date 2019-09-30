@@ -10,6 +10,10 @@ Olemme toimialariippumaton nettisivujen suunnittelu yritys. Yrityksemme liiketoi
 Yrityksellämme on käytössä pääsääntöisesti tekstieditorina avoimeen lähdekoodiin perustuva ilmainen Brackets-tekstieditori. Yrityksemme versionhallintaohjelmisto on Git, joka myös perustuu avoimeen lähdekoodiin ja on ilmainen. Kuvanmuokkaukseen yrityksessä käytetään Adoben Photoshop ohjelmaa, joka on yleisesti käytetty ja laadukas monipuolinen ohjelma. Lisäksi käytössä ovat Microsoftin O365 palvelut (Office 365 Business Premium), joiden kautta saamme käyttöön muun muassa sähköpostit, pilvipalvelut ja esimerkiksi PowerPointin. Sekä näiden lisäosia älypuhelimille. Kaikkien yllä mainittujen ohjelmistojen valintoja perustellaan tarkemmin työkaluketju dokumentissa. 
 
 <h2>Yrityksen tavoitteet</h2>
+
+Vuoden 2019 strategian mukaan haluamme tehdä tulevaisuudessa parempaa, visuaalisesti laadukasta ja yksinkertaisesti toteutettua, toimivaa digitaalista maailmaa. 
+Yrityksemme pyrkii vähentämään paperin kulutusta ja suosii paperista vapaata maailmaa, joten verkkosivustot ja web-osaaminen ovat tärkeitä luonnon ja tulevaisuutemme kannalta. Yrityksemme ammattilaiset ovat sitoutuneet kestävän kehityksen mukaiseen ajatusmaailmaan, jossa pyrimme suunnitteluratkaisuissa käyttämään. Suunnittelemiemme ratkaisujen tarkoituksena on vähentää ympäristökuormitusta. Kestävä kehitys on jatkuvaa ja ohjattua yhteiskunnallista muutosta, jonka tavoitteena turvataan tuleville ja nykyisille sukupolville hyvät elämisen mahdollisuudet (Ympäristöministeriö. 2019). Kestävän kehityksen periaatteiden mukaisesti huomioimme kestävän kehityksen ympäristöön, ihmisiin ja talouteen liittyvässä päätöksenteossa ja toiminnassa. Tavoitteenamme on myös olla tasa-arvoa kannattava työnantaja. Edistämme tasa-arvoa huomioimalla tasa-arvon palkkauksessa, työolosuhteissa, työsuhteen ehdoissa sekä urakehityksessä. Noudatamme tasa-arvolakia, joka kieltää syrjinnän sukupuolen perusteella ja velvoittaa edistämään sukupuolten välistä tasa-arvoa. (Sosiaali- ja terveysministeriö. 2019).
+
 <h2>Osaaminen</h2>
 
 
