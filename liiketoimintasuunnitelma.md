@@ -32,7 +32,7 @@ Yrityksemme pyrkii vähentämään paperin kulutusta ja suosii paperista vapaata
 
 Strategiamme on helppo toteuttaa, koska yrityksessämme voimavarana on pitkän linjan osaajat. Yrityksessämme toimii neljä laaja-alaista osaajaa Fullstack -ohjelmoinnin ammattilaista. Yrityksessä toimivat ammattilaiset osaavat koko liiketoiminta mallin mukaisen toimintatavan. Yrityksemme ammattilaiset osaavat serveri ratkaisut, osaavat toteuttaa käyttöliittymäratkaisut sekä omaavat laajan käsityksen business logiikasta.Pääasiallinen liiketoiminta ala on kuitenkin verkkosivujen toteutus. Yrityksemme ammattilaiset osaavat suunnitella laaja-alaisesti verkkosivujen ohjelmointia. Tämä mahdollistaa sen että verkkosivustot ovat suunniteltu toimimaan pitkäkestoisesti vuodesta toiseen ja toteuttamamme ratkaisut toimivat sujuvasti serveristä käyttäjään. Ongelmat verkkosuunnittelussa tunnemme läpikotaisin. Verkkosuunnittelussa otamme ensimmäisenä huomioon käyttäjäystävällisyyden sekä tietoturva asiat. Yrityksemme ammattilaiset ovat kouluttautuneet pitkällä aikavälillä verkkosuunnittelun tietoturva asioissa ja jatkuvan kouluttautumisen vuoksi tietoturva osaaminen on ajan hermolla.
 
-Palvelutarjontaamme kuuluu syvä osaaminen myös asiakasrajapinnassa toimimiseen. Haluamme tarjota asiakkaillemme miellyttävän ja vaivattoman käyttökokemuksen. Yrityksemme osaajilta löytyy vahvaa liiketoiminta tuntemusta logistiikasta, vähittäis- ja tukkuliikkeestä, finanssialoista. 
+Palvelutarjontaamme kuuluu laaja osaaminen myös asiakasrajapinnassa toimimiseen. Haluamme tarjota asiakkaillemme miellyttävän ja vaivattoman käyttökokemuksen. Yrityksemme osaajilta löytyy vahvaa liiketoiminta tuntemusta logistiikasta, vähittäis- ja tukkuliikkeestä sekä finanssialoista. 
 
 <h2>Lähteet</h2>
 <br>
