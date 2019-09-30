@@ -1,3 +1,17 @@
+<center><H1>LAPIN AMK</H1><br>
+Tietojärjestelmät, käyttöjärjestelmät ja verkot
+<br>
+<br>
+<br>
+Ryhmätyö
+
+Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
+<br>
+<br>
+Tradenomi<br>
+Tietojenkäsittely<br>
+2019<br></center>
+
 <h1>Duuniseuranta</h1>
 
 <h2>30.9.2019</h2>
