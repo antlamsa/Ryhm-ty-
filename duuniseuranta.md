@@ -15,4 +15,13 @@ Työkaluketjun otsikointia ja tekstin lisäystä
 - Työkaluketju
 
 <h2>27.9.2019</h2>
-Ryhmäpalaveri whatsappissa
+
+<h3>Sandra Ronkainen</h3>
+Ryhmäpalaveri Whatsappissa
+
+<h3>Ville Soramäki</h3>
+Ryhmäpalaveri Whatsapissa
+
+<h3>Katja Somero</h3>
+
+<h3>Antti Lämsä</h3>
