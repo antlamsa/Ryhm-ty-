@@ -13,6 +13,7 @@ Työkaluketjun otsikointia ja tekstin lisäystä
 
 <h3>Antti Lämsä</h3>
 - Työkaluketju
+- Liiketoimintasuunitelma
 
 <h2>27.9.2019</h2>
 
