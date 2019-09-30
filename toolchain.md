@@ -13,7 +13,7 @@ Käytettäväksi versionhallinta ohjelmistoksi valitaan Git. Git perustuu myös 
 Adobe Photoshop maailman kehittynein digitaalisen kuvankäsittelyn ohjelmisto, joka on saavuttanut kaupallisen markkinajohtajuuden. Adobe Photoshopilla pystyt suunnittelemaan kuvia, luoda kuvia ja muokkaamaan kuvia. Photoshop tarjoaa myös tehokkaita muokkaustyökaluja joilla myös pystyy hienosti muokkaamaan kuvia. Photoshop on saatavilla Microsoft windowsille sekä macOS:lle. Adobe photoshop on tarkoitettu enimmäkseen ammatilliseen käyttöön, koska photoshop on suhteellisen kallis yksityiskäyttöön. (Adobe Photoshop. 2019.)
 
 
-Lähteet:
+Lähteet: <br>
 Git. 2019. Viitattu 30.9.2019 https://www.git-scm.com/<br>
-Brackets. 2019. Viitattu 30.9.2019 http://brackets.io/
+Brackets. 2019. Viitattu 30.9.2019 http://brackets.io/ <br>
 Adobe Photoshop. 2019. Viitattu 30.9.2019 https://www.adobe.com/fi/products/photoshop.html
