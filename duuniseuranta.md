@@ -5,6 +5,8 @@
 <h3>Sandra Ronkainen</h3>
 * Työkaluketju
 * Duuniseuranta pohja
+* Liiketoiminta suunnitelma
+
 
 <h3>Ville Soramäki</h3>
 Ryhmä suunnittelu palaveri<br>
