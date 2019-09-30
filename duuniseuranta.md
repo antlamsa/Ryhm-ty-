@@ -25,3 +25,4 @@ Ryhmäpalaveri Whatsapissa
 <h3>Katja Somero</h3>
 
 <h3>Antti Lämsä</h3>
+Ryhmäpalaveri Whatsapissa
