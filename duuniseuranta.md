@@ -23,6 +23,7 @@ Ryhmäpalaveri Whatsappissa
 Ryhmäpalaveri Whatsapissa
 
 <h3>Katja Somero</h3>
+Ryhmäpalaveri Whatsappissa
 
 <h3>Antti Lämsä</h3>
 Ryhmäpalaveri Whatsapissa
