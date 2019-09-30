@@ -17,3 +17,8 @@ Lähteet: <br>
 Git. 2019. Viitattu 30.9.2019 https://www.git-scm.com/<br>
 Brackets. 2019. Viitattu 30.9.2019 http://brackets.io/ <br>
 Adobe Photoshop. 2019. Viitattu 30.9.2019 https://www.adobe.com/fi/products/photoshop.html
+<h2>O365 Office</h2>
+
+Yksi käyttöoikeus kattaa täysin asennetut Office-sovellukset viidessä puhelimessa, viidessä tabletissa ja viidessä tietokoneessa käyttäjää kohti, joten yrityksen tarvitsee mahdollisesti hankkia vain yksi lisenssi yhteen koneeseen.(Microsoft. 2019.) O356 BP mahdollistaa tiedostojen tallentamisen ja jakamisen, sekä antaa yhden teratavun verran tallennustilaa OneDriveen. Yritys saisi myös käyttöönsä intranetin kaikille ja ryhmäsivustot SharePointissa. Tämä mahdollistaa online- ja videokokousten isännöinnin enintään 250 henkilölle tarpeen mukaan. Yrityksen työntekijät kykenevät myös tekemään tiimitöitä Microsoft Teams:in avulla. Yritys pystyy myös hoitamaan asiakassuhteet Outlook Customer Managerin avulla. Yritys pystyy myös hallitsemaan liiketoimintaa Microsoft Bookingsin avulla. Yritys kykenee hallitsemaan tehtäviä ja yhteistyötä Microsoft Plannerin avulla. O365 BP:n palvelun käyttäjien enimmäismäärä on 300 henkilöä ja se sisältää ympärivuorokautisen puhelin- ja verkkotuen. O365 BP sisältää monta yritykselle hyödyllistä ja tarpeellista ohjelmaa, sekä se sisältää useamman yrityksen toiminnalle hyödyllisen ohjelman. Se on myös kohtuuhintainen. 
+
+Microsoft. 2019. Viitattu 30.9.2019. https://products.office.com/fi-FI/compare-all-microsoft-office-products-b?&OCID=AID2000136_SEM_prl2dxyg&MarinID=sprl2dxyg%7c250542813345%7coffice+365%7ce%7cc%7c%7c53162984778%7ckwd-3472054485&lnkd=Google_O365SMB_NI&gclid=EAIaIQobChMIge6Vx7HT5AIVD9KyCh3QoA6MEAAYASAAEgKhKfD_BwE&activetab=tab:primaryr2
