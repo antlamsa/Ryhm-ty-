@@ -16,6 +16,7 @@ Yrityksemme pyrkii vähentämään paperin kulutusta ja suosii paperista vapaata
 
 <h2>Osaaminen</h2>
 
+Strategiamme on helppo toteuttaa, koska yrityksessämme voimavarana on pitkän linjan osaajat. Yrityksessämme toimii neljä laaja-alaista osaajaa Fullstack -ohjelmoinnin ammattilaista. Yrityksessä toimivat ammattilaiset osaavat koko liiketoiminta mallin mukaisen toimintatavan. Yrityksemme ammattilaiset osaavat serveri ratkaisut, osaavat toteuttaa käyttöliittymäratkaisut sekä omaavat laajan käsityksen business logiikasta.
 
 
 Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
