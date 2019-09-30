@@ -12,6 +12,7 @@ Työkaluketjun otsikointia ja tekstin lisäystä
 <h3>Katja Somero</h3>
 
 <h3>Antti Lämsä</h3>
+- Työkaluketju
 
 <h2>27.9.2019</h2>
 Ryhmäpalaveri whatsappissa
