@@ -1,4 +1,17 @@
+<center><H1>LAPIN AMK</H1><br>
+Tietojärjestelmät, käyttöjärjestelmät ja verkot
+<br>
+<br>
+<br>
+Ryhmätyö
+
 Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
+<br>
+<br>
+Tradenomi<br>
+Tietojenkäsittely<br>
+2019<br></center>
+
 <h1> Liiketoimintakuvaus </h1>
 <h2> VMP OY</h2>
 Yrityksemme nimi on VMP Oy. Yrityksemme slogan on <i>Vain myymme parasta!</i> Jolla vetoamme erilaisiin asiakkaisiin. <br><br>
@@ -26,7 +39,3 @@ Palvelutarjontaamme kuuluu syvä osaaminen myös asiakasrajapinnassa toimimiseen
 Ympäristöministeriö. 2019. Mitä on kestävä kehitys? Viitattu 30.9.2019 https://www.ym.fi/fi-FI/ymparisto/Kestava_kehitys/Mita_on_kestava_kehitys
 <br>
 Sosiaali- ja terveysministeriö. 2019. Tasa-arvo työelämässä. Viitattu 30.9.2019 https://stm.fi/tasa-arvo-tyoelamassa
-
-
-
-Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
