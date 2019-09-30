@@ -20,6 +20,12 @@ Strategiamme on helppo toteuttaa, koska yrityksessämme voimavarana on pitkän l
 
 Palvelutarjontaamme kuuluu syvä osaaminen myös asiakasrajapinnassa toimimiseen. Haluamme tarjota asiakkaillemme miellyttävän ja vaivattoman käyttökokemuksen. Yrityksemme osaajilta löytyy vahvaa liiketoiminta tuntemusta logistiikasta, vähittäis- ja tukkuliikkeestä, finanssialoista. 
 
+<h2>Lähteet</h2>
+<br>
+Ympäristöministeriö. 2019. Mitä on kestävä kehitys? Viitattu 30.9.2019 https://www.ym.fi/fi-FI/ymparisto/Kestava_kehitys/Mita_on_kestava_kehitys
+<br>
+Sosiaali- ja terveysministeriö. 2019. Tasa-arvo työelämässä. Viitattu 30.9.2019 https://stm.fi/tasa-arvo-tyoelamassa
+
 
 
 Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
