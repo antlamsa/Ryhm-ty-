@@ -1,3 +1,4 @@
+Sandra Ronkainen, Katja Somero, Antti Lämsä, Ville Soramäki
 <h1> Liiketoimintakuvaus </h1>
 <h2> VMP OY</h2>
 Yrityksemme nimi on VMP Oy. Yrityksemme slogan on <i>Vain myymme parasta!</i> Jolla vetoamme erilaisiin asiakkaisiin. <br><br>
