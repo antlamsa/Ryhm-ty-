@@ -1,1 +1,2 @@
+Valitaan käytettäväksi tekstieditoriksi Brackets. Brackets on moderni, avoimeen lähdekoodiin perustuva editori, jolla on helppo tehdä web suunnittelua. Brackets on kevyt, mutta tehtokas ohjelmisto ja siihen saa ladattua käytännöllisiä laajennusosia. Brackets tukee useita ohjelmointikieliä. Bracket on myös saatavilla 33 eri kielellä, joten sen käyttäminen on helppoa äidinkielestä riippumatta. Brackets toimii hyvin eri käyttöjärjestelmissä (Windows, MacOS), sekä yhteydessä esimerkiksi GitHubin kanssa. (Brackets, 2019.)
 
