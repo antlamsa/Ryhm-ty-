@@ -7,7 +7,7 @@
 * Duuniseuranta pohja
 
 <h3>Ville Soramäki</h3>
-Ryhmä suunnittelu palaveri
+Ryhmä suunnittelu palaveri<br>
 Työkaluketjun otsikointia ja tekstin lisäystä
 <h3>Katja Somero</h3>
 
